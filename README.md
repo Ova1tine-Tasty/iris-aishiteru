@@ -13,4 +13,4 @@ _<p align="center">หากความทรงจำเป็นเหมื�
 <br>
 <p align="center">เกมนี้สร้างสำหรับงาน SAIG Game Jam. Made by @ik_kasidech with love <3</p>
 
-_<p align="center">"ไม่มีเวทมนต์จะ SAIG อะไรไม่มีสักอย่าง"</p>_
+_<p align="center">"ไม่มีเวทย์มนต์จะSAIGอะไรให้ดีสักอย่าง แต่ขอแค่เธอยังอยู่ข้างข้างคือสิ่งสำคัญ"</p>_
