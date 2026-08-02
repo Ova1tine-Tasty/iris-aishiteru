@@ -1,5 +1,5 @@
-_หากความทรงจำเป็นเหมือนม้วนฟิล์มที่สามารถกรอกลับมาดูได้ใหม่ คุณจะเลือกย้อนกลับไปยังส่วนไหนของเรื่องราว?_
-
+_<p align="center">หากความทรงจำเป็นเหมือนม้วนฟิล์มที่สามารถกรอกลับมาดูได้ใหม่ คุณจะเลือกย้อนกลับไปยังส่วนไหนของเรื่องราว?</p>_
+<br>
 **Story by** IG@ik_kasidech | **Programming by** IG@ik_kasidech
 
 **Credit for Assets**:  [Aiko (Newstyle) by Noraneko Games](https://noranekogames.itch.io/aikosprite), [Sora by Noraneko Games](https://noranekogames.itch.io/sora), [Anime Backgrounds by Noraneko Games](https://noranekogames.itch.io/yumebackground). [Visual Novel Dialogue GUI Asset Pack by One Level Studio](https://onelevelstudio.itch.io/dialogue-gui), [PhoneTexting System by Nighten](https://nighten.itch.io/yet-another-phone-renpy), [Thumb up icon by Delapouite](https://delapouite.com/)
@@ -10,7 +10,7 @@ _หากความทรงจำเป็นเหมือนม้วน�
 
 **Font**: [TH Mali Grade 6](https://www.f0nt.com/release/13-free-fonts-from-sipa/)
 
+<br>
+<p align="center">เกมนี้สร้างสำหรับงาน SAIG Game Jam. Made by @ik_kasidech with love <3</p>
 
-<p style="text-align: center;">เกมนี้สร้างสำหรับงาน SAIG Game Jam. Made by @ik_kasidech with love <3</p>
-
-<p style="text-align: center;">"ไม่มีเวทมนต์จะ SAIG อะไรไม่มีสักอย่าง"</p>
+_<p align="center">"ไม่มีเวทมนต์จะ SAIG อะไรไม่มีสักอย่าง"</p>_
